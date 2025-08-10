@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="charbel.jawich2021@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:charbel.jawich2021@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=microsoft-outlook"></a>
   <a href="https://instagram.com/charbeljawich_"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"></a>
 </p>
 
