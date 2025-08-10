@@ -1,4 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 <h1 align="center">Hey there 👋, I'm Charbel Jawich</h1>
 <h3 align="center">💻 Computer & Software Engineering Student</h3>
